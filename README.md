@@ -42,6 +42,7 @@ I write software end-to-end — APIs, UI, data, and the glue that ships. Current
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -76,10 +77,10 @@ I write software end-to-end — APIs, UI, data, and the glue that ships. Current
 
 <div align="center">
 
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexus69420&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexus69420&layout=compact&theme=transparent&hide_border=true&langs_count=6)
+![Aayush's GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=nexus69420&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nexus69420&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nexus69420&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nexus69420&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
