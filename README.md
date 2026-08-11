@@ -8,7 +8,7 @@ SWE Intern @ **Flywheel** · B.Tech @ **NSUT, New Delhi**
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexus69420)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aayush-portfolio-sandy.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-kumar-dubey-917bb9285)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushdubey.work@gmail.com)
 
@@ -91,7 +91,7 @@ Open to **SDE / full-stack** opportunities — happy to chat about projects, int
 
 | | |
 |---|---|
-| **Portfolio** | [github.com/nexus69420](https://github.com/nexus69420) |
+| **Portfolio** | [aayush-portfolio-sandy.vercel.app](https://aayush-portfolio-sandy.vercel.app/) |
 | **LinkedIn** | [aayush-kumar-dubey](https://www.linkedin.com/in/aayush-kumar-dubey-917bb9285) |
 | **Email** | [aayushdubey.work@gmail.com](mailto:aayushdubey.work@gmail.com) |
 
