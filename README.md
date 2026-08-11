@@ -77,10 +77,10 @@ I write software end-to-end — APIs, UI, data, and the glue that ships. Current
 
 <div align="center">
 
-![Aayush's GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=nexus69420&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Aayush's GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=nexus69420&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_rank=true)
 ![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nexus69420&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nexus69420&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.vercel.app/?user=nexus69420&theme=dark&hide_border=true)
 
 </div>
 
