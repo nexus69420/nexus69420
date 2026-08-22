@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Aayush Dubey - Backend engineer building systems that stay up" />
+  <img src="https://raw.githubusercontent.com/nexus69420/nexus69420/main/assets/header.svg" width="100%" alt="Aayush Dubey - Backend engineer building systems that stay up" />
 </div>
 
 <div align="center">
