@@ -12,11 +12,11 @@
 
 I turn messy workflows into **backend systems people can actually ship**. My sweet spot is the layer between a promising feature and a dependable product: multi-tenant auth, document lifecycles, OCR/RAG pipelines, and the API glue that makes it all hold.
 
-```text
-current_quest  → shipping multi-tenant document platforms @ Flywheel
-recently       → SWE Intern · Keycloak RBAC · OCR 77%→90% · Marqo / vLLM
-interested_in  → backend · platform · full-stack · production AI systems
-operating_from → India (UTC+5:30) · NSUT Delhi
+```
+role      Software Engineering Intern · Flywheel
+study     B.Tech ICE · NSUT Delhi · 2023–present
+focus     APIs · multi-tenancy · OCR / RAG · eval pipelines
+looking   SDE / internship · 2026 · backend, platform, full-stack
 ```
 
 ## `> shipped_work`
@@ -64,7 +64,18 @@ operating_from → India (UTC+5:30) · NSUT Delhi
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,fastapi,nextjs,react,postgres,docker,linux,git&theme=dark&perline=11" alt="Python, C++, JavaScript, TypeScript, FastAPI, Next.js, React, PostgreSQL, Docker, Linux, and Git" />
 </div>
 
-<br />
+When OCR or RAG misbehaves, I'd rather **read the score and the trace** than guess.
+
+## telemetry
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=nexus69420&show_icons=true&hide_border=true&bg_color=0A0B0D&title_color=4ADE80&icon_color=4ADE80&text_color=E8E6E0&ring_color=4ADE80" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nexus69420&layout=compact&hide_border=true&bg_color=0A0B0D&title_color=4ADE80&text_color=E8E6E0" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexus69420&bg_color=0A0B0D&color=8A8F98&line=4ADE80&point=4ADE80&area=true&hide_border=true&area_color=4ADE80" alt="contribution graph" />
+</div>
 
 <div align="center">
   <picture>
