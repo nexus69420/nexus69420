@@ -1,43 +1,23 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Aayush Dubey — builds systems that stay up" width="100%" />
+  <img src="./assets/header.svg" width="100%" alt="Aayush Dubey - Backend engineer building systems that stay up" />
+</div>
+
+<div align="center">
+  <a href="https://aayush-portfolio-sandy.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=7ee787" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aayush-kumar-dubey-917bb9285"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
+  <a href="mailto:aayushdubey.work@gmail.com"><img src="https://img.shields.io/badge/say_hi-0d1117?style=for-the-badge&logo=gmail&logoColor=f85149" alt="Email Aayush" /></a>
 </div>
 
 <br />
 
-<div align="center">
+I turn messy workflows into **backend systems people can actually ship**. My sweet spot is the layer between a promising feature and a dependable product: multi-tenant auth, document lifecycles, OCR/RAG pipelines, and the API glue that makes it all hold.
 
-  `● SYSTEM ONLINE` &nbsp;·&nbsp; `svc: aayush-dubey.backend` &nbsp;·&nbsp; `net: NSUT · Delhi`
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=4ADE80&center=true&vCenter=true&width=640&lines=builds+systems+that+stay+up.;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Keycloak;multi-tenant+platforms+%C2%B7+OCR+%2F+RAG;open+to+SDE+%2F+internship+%C2%B7+2026" alt="typing tagline" />
-
-  <br />
-
-  [![portfolio](https://img.shields.io/badge/portfolio-aayush--portfolio--sandy.vercel.app-4ADE80?style=flat-square&labelColor=0A0B0D)](https://aayush-portfolio-sandy.vercel.app/)
-  [![linkedin](https://img.shields.io/badge/linkedin-aayush--kumar--dubey-4ADE80?style=flat-square&labelColor=0A0B0D)](https://www.linkedin.com/in/aayush-kumar-dubey-917bb9285)
-  <a href="mailto:aayushdubey.work@gmail.com"><img src="https://img.shields.io/badge/email-aayushdubey.work%40gmail.com-4ADE80?style=flat-square&labelColor=0A0B0D" alt="email aayushdubey.work@gmail.com" /></a>
-  [![available](https://img.shields.io/badge/status-available%20·%202026-4ADE80?style=flat-square&labelColor=0A0B0D)](https://aayush-portfolio-sandy.vercel.app/)
-
-</div>
-
----
-
-Backend engineer working where **reliability is the feature** — FastAPI platforms, multi-tenant auth, OCR/RAG pipelines, and observable LLM workflows. I care about the unglamorous parts: tenancy boundaries, schema design, and traces that make 2 a.m. debugging survivable.
-
-Currently shipping production backends at **Flywheel** — a multi-tenant document ingestion platform (OCR, translate, review, index) with Keycloak auth, Marqo search, and self-hosted models on H100s.
-
+```text
+current_quest  → shipping multi-tenant document platforms @ Flywheel
+recently       → SWE Intern · Keycloak RBAC · OCR 77%→90% · Marqo / vLLM
+interested_in  → backend · platform · full-stack · production AI systems
+operating_from → India (UTC+5:30) · NSUT Delhi
 ```
-role      Software Engineering Intern · Flywheel
-study     B.Tech ICE · NSUT Delhi · 2023–present
-focus     APIs · multi-tenancy · OCR / RAG · eval pipelines
-looking   SDE / internship · 2026 · backend, platform, full-stack
-```
-
-## now
-
-- Shipping **20+ merged PRs** into a production multi-tenant document platform (FastAPI, Temporal, MinIO, Marqo, React)
-- Owning **Keycloak JWT + RBAC** so mutating endpoints stay tenant-scoped — fail-closed, not decorative
-- Designing **document lifecycle APIs** (include / soft-delete / restore / chunk delete) so vector index and relational store never drift
-- Replacing cloud OCR/translation with **self-hosted Chandra + Gemma on vLLM (H100)** — OCR accuracy **77% → 90%**
 
 ## `> shipped_work`
 
@@ -84,16 +64,7 @@ looking   SDE / internship · 2026 · backend, platform, full-stack
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,fastapi,nextjs,react,postgres,docker,linux,git&theme=dark&perline=11" alt="Python, C++, JavaScript, TypeScript, FastAPI, Next.js, React, PostgreSQL, Docker, Linux, and Git" />
 </div>
 
-## telemetry
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=nexus69420&show_icons=true&hide_border=true&bg_color=0A0B0D&title_color=4ADE80&icon_color=4ADE80&text_color=E8E6E0&ring_color=4ADE80&hide_rank=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nexus69420&layout=compact&hide_border=true&bg_color=0A0B0D&title_color=4ADE80&text_color=E8E6E0" alt="top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexus69420&bg_color=0A0B0D&color=8A8F98&line=4ADE80&point=4ADE80&area=true&hide_border=true&area_color=4ADE80" alt="contribution graph" />
-</div>
+<br />
 
 <div align="center">
   <picture>
@@ -102,19 +73,3 @@ looking   SDE / internship · 2026 · backend, platform, full-stack
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/nexus69420/nexus69420/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-## connect
-
-Open to **2026** software-engineering internships and full-time roles — backend, platform, or full-stack. If you're hiring for systems that need to stay up, I'd like to hear about it.
-
-<p align="center">
-  <a href="https://aayush-portfolio-sandy.vercel.app/">portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:aayushdubey.work@gmail.com">aayushdubey.work@gmail.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/aayush-kumar-dubey-917bb9285">linkedin/in/aayush-kumar-dubey</a>
-</p>
-
-<p align="center">
-  <sub><code>uptime 100% · last deploy: now</code></sub>
-</p>

@@ -1,6 +1,8 @@
 .DS_Store
 Thumbs.db
 *.swp
-_yash_ref.md
-_yash_snake.yml
-_yash_gitignore
+_*ref.md
+_*raw.md
+_*snake.yml
+_*gitignore
+header_antriksh.svg
