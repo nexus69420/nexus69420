@@ -44,20 +44,6 @@ looking   SDE / internship · 2026 · backend, platform, full-stack
   </tr>
 </table>
 
-## `> proof_of_work`
-
-<div align="center">
-
-| `20+ PRs` | `77% → 90%` | `80K+ users` | `15K+ chunks` |
-|:---:|:---:|:---:|:---:|
-| merged into production | OCR accuracy after benchmarking | on systems & DBs managed | indexed for semantic search |
-
-</div>
-
-- Shipped **Keycloak JWT + RBAC** from scratch, gating all mutating endpoints behind scoped permissions with **15** auth/tenancy tests.
-- Refactored the vector store behind a single **VectorStore** protocol — removed **11** direct Marqo call sites and **152** lines of duplicated logic.
-- Built document lifecycle APIs (include / soft-delete / restore / chunk delete) with fail-closed ordering between the vector index and relational store.
-
 ## `> systems_i_reach_for`
 
 <div align="center">
