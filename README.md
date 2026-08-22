@@ -1,105 +1,115 @@
 <div align="center">
-
-# Hey, I'm Aayush
-
-**Software Development Engineer** · building reliable full-stack products & GenAI systems
-
-SWE Intern @ **Flywheel** · B.Tech @ **NSUT, New Delhi**
+  <img src="./assets/banner.png" alt="Aayush Dubey — builds systems that stay up" width="100%" />
+</div>
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aayush-portfolio-sandy.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-kumar-dubey-917bb9285)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushdubey.work@gmail.com)
-
-</div>
-
----
-
-### About
-
-I write software end-to-end — APIs, UI, data, and the glue that ships. Currently focused on **SDE roles**: clean architecture, strong TypeScript/Python fundamentals, and products people can actually use.
-
-- Shipping full-stack apps with **Next.js**, **FastAPI**, and production deploys
-- Building GenAI / RAG systems with real retrieval + UX, not just demos
-- Comfortable owning features from schema → API → UI → deploy
-
----
-
-### Featured work
-
-| Project | What it is | Stack | Links |
-|--------|------------|-------|-------|
-| **Kai** | Multi-PDF AI RAG chatbot | TypeScript · React · LangChain · Gemini | [Live](https://kai-ai-rag.vercel.app) · [Repo](https://github.com/nexus69420/kai-ai-rag) |
-| **Airbnb Clone** | Full-stack hiring demo — explore, book, host | Next.js 15 · FastAPI · SQLAlchemy | [Live](https://airbnb-clone-sand-five.vercel.app) · [Repo](https://github.com/nexus69420/Airbnb-clone) |
-| **Movie Recommender** | Hybrid recommender (content + SVD collaborative) | Python · Streamlit · scikit-learn · NLP | [Repo](https://github.com/nexus69420/movie-recommender-streamlit) |
-
----
-
-### Toolkit
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & data**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### GitHub
-
 <div align="center">
 
-![Aayush's GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=nexus69420&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_rank=true)
-![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nexus69420&layout=compact&theme=dark&hide_border=true&langs_count=8)
+  `● SYSTEM ONLINE` &nbsp;·&nbsp; `svc: aayush-dubey.backend` &nbsp;·&nbsp; `net: NSUT · Delhi`
 
-![GitHub Streak](https://streak-stats.vercel.app/?user=nexus69420&theme=dark&hide_border=true)
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=4ADE80&center=true&vCenter=true&width=640&lines=builds+systems+that+stay+up.;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Keycloak;multi-tenant+platforms+%C2%B7+OCR+%2F+RAG;open+to+SDE+%2F+internship+%C2%B7+2026" alt="typing tagline" />
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nexus69420&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true)
+  <br />
+
+  [![portfolio](https://img.shields.io/badge/portfolio-aayush--portfolio--sandy.vercel.app-4ADE80?style=flat-square&labelColor=0A0B0D)](https://aayush-portfolio-sandy.vercel.app/)
+  [![linkedin](https://img.shields.io/badge/linkedin-aayush--kumar--dubey-4ADE80?style=flat-square&labelColor=0A0B0D)](https://www.linkedin.com/in/aayush-kumar-dubey-917bb9285)
+  <a href="mailto:aayushdubey.work@gmail.com"><img src="https://img.shields.io/badge/email-aayushdubey.work%40gmail.com-4ADE80?style=flat-square&labelColor=0A0B0D" alt="email aayushdubey.work@gmail.com" /></a>
+  [![available](https://img.shields.io/badge/status-available%20·%202026-4ADE80?style=flat-square&labelColor=0A0B0D)](https://aayush-portfolio-sandy.vercel.app/)
 
 </div>
 
 ---
 
-### Let's connect
+Backend engineer working where **reliability is the feature** — FastAPI platforms, multi-tenant auth, OCR/RAG pipelines, and observable LLM workflows. I care about the unglamorous parts: tenancy boundaries, schema design, and traces that make 2 a.m. debugging survivable.
 
-Open to **SDE / full-stack** opportunities — happy to chat about projects, internships, or full-time roles.
+Currently shipping production backends at **Flywheel** — a multi-tenant document ingestion platform (OCR, translate, review, index) with Keycloak auth, Marqo search, and self-hosted models on H100s.
 
-| | |
-|---|---|
-| **Portfolio** | [aayush-portfolio-sandy.vercel.app](https://aayush-portfolio-sandy.vercel.app/) |
-| **LinkedIn** | [aayush-kumar-dubey](https://www.linkedin.com/in/aayush-kumar-dubey-917bb9285) |
-| **Email** | [aayushdubey.work@gmail.com](mailto:aayushdubey.work@gmail.com) |
+```
+role      Software Engineering Intern · Flywheel
+study     B.Tech ICE · NSUT Delhi · 2023–present
+focus     APIs · multi-tenancy · OCR / RAG · eval pipelines
+looking   SDE / internship · 2026 · backend, platform, full-stack
+```
+
+## now
+
+- Shipping **20+ merged PRs** into a production multi-tenant document platform (FastAPI, Temporal, MinIO, Marqo, React)
+- Owning **Keycloak JWT + RBAC** so mutating endpoints stay tenant-scoped — fail-closed, not decorative
+- Designing **document lifecycle APIs** (include / soft-delete / restore / chunk delete) so vector index and relational store never drift
+- Replacing cloud OCR/translation with **self-hosted Chandra + Gemma on vLLM (H100)** — OCR accuracy **77% → 90%**
+
+## production
+
+Shipped into Flywheel's multi-tenant ingestion stack — auth that actually gates mutations, vector-store layering behind a single protocol, domain tagging with a Gemma auto-tagger, and a resumable OCR benchmarking harness used to pick production engines.
+
+| signal | value |
+| :--- | :--- |
+| PRs merged to production | **20+** |
+| OCR accuracy | **77% → 90%** after model benchmarking |
+| users on systems managed | **80K+** |
+| chunks indexed for search | **15K+** |
+| Marqo call sites removed | **11** (152 lines of duplicated logic) |
+| auth / tenancy tests | **15** verifying scoped mutations |
+
+## selected systems
+
+| | | |
+| :--- | :--- | :--- |
+| **[Airbnb Clone](https://github.com/nexus69420/Airbnb-clone)** | End-to-end booking platform — listings, filters, bookings, reviews, wishlists, host management across 9 domain entities. Next.js 15 + FastAPI, JWT auth, Alembic migrations. [Live demo](https://airbnb-clone-sand-five.vercel.app). | `TypeScript` `Next.js` `FastAPI` |
+| **[KAI — RAG Workspace](https://github.com/nexus69420/kai-ai-rag)** | Full-stack RAG desk: PDF upload, hybrid retrieval (dense + keyword + RRF) with Gemini reranking, streaming answers with page-level citations. [Live demo](https://kai-ai-rag.vercel.app). | `TypeScript` `Gemini` `Postgres` `Qdrant` |
+| **[OCR Benchmark](https://github.com/nexus69420/ocr-benchmark-v2)** | Resumable benchmarking CLI with YAML model registry — scores OCR/VLM engines by ANLS/CER/WER plus a vision-LLM judge for accuracy-vs-latency tradeoffs. | `Python` `vLLM` `OCR` `Eval` |
+
+More context and writeups: **[aayush-portfolio-sandy.vercel.app](https://aayush-portfolio-sandy.vercel.app/)**.
+
+## stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,fastapi,postgres,redis,docker,linux,git,react,nextjs,tailwind,nodejs&theme=dark" alt="tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Keycloak-auth-4ADE80?style=flat-square&labelColor=101216" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/Marqo-search-4ADE80?style=flat-square&labelColor=101216" alt="Marqo" />
+  <img src="https://img.shields.io/badge/Temporal-workflows-4ADE80?style=flat-square&labelColor=101216" alt="Temporal" />
+  <img src="https://img.shields.io/badge/vLLM-inference-4ADE80?style=flat-square&labelColor=101216" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Qdrant-vectors-4ADE80?style=flat-square&labelColor=101216" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Pydantic-models-4ADE80?style=flat-square&labelColor=101216" alt="Pydantic" />
+</p>
+
+When OCR or RAG misbehaves, I'd rather **read the score and the trace** than guess.
+
+## telemetry
 
 <div align="center">
-
-⭐ From [nexus69420](https://github.com/nexus69420)
-
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=nexus69420&show_icons=true&hide_border=true&bg_color=0A0B0D&title_color=4ADE80&icon_color=4ADE80&text_color=E8E6E0&ring_color=4ADE80&hide_rank=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nexus69420&layout=compact&hide_border=true&bg_color=0A0B0D&title_color=4ADE80&text_color=E8E6E0" alt="top languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexus69420&bg_color=0A0B0D&color=8A8F98&line=4ADE80&point=4ADE80&area=true&hide_border=true&area_color=4ADE80" alt="contribution graph" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexus69420/nexus69420/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexus69420/nexus69420/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/nexus69420/nexus69420/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+## connect
+
+Open to **2026** software-engineering internships and full-time roles — backend, platform, or full-stack. If you're hiring for systems that need to stay up, I'd like to hear about it.
+
+<p align="center">
+  <a href="https://aayush-portfolio-sandy.vercel.app/">portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:aayushdubey.work@gmail.com">aayushdubey.work@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/aayush-kumar-dubey-917bb9285">linkedin/in/aayush-kumar-dubey</a>
+</p>
+
+<p align="center">
+  <sub><code>uptime 100% · last deploy: now</code></sub>
+</p>
