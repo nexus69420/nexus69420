@@ -39,45 +39,50 @@ looking   SDE / internship · 2026 · backend, platform, full-stack
 - Designing **document lifecycle APIs** (include / soft-delete / restore / chunk delete) so vector index and relational store never drift
 - Replacing cloud OCR/translation with **self-hosted Chandra + Gemma on vLLM (H100)** — OCR accuracy **77% → 90%**
 
-## production
+## `> shipped_work`
 
-Shipped into Flywheel's multi-tenant ingestion stack — auth that actually gates mutations, vector-store layering behind a single protocol, domain tagging with a Gemma auto-tagger, and a resumable OCR benchmarking harness used to pick production engines.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📄 KAI</h3>
+      <p>A full-stack RAG desk that answers from retrieved PDF evidence — hybrid retrieval, Gemini reranking, and page-level citations.</p>
+      <p><code>Next.js</code> <code>Qdrant</code> <code>Gemini</code> <code>RAG</code></p>
+      <a href="https://github.com/nexus69420/kai-ai-rag"><b>source ↗</b></a> · <a href="https://kai-ai-rag.vercel.app"><b>live ↗</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏠 Airbnb Clone</h3>
+      <p>End-to-end booking platform with layered FastAPI services, JWT auth, and 9 domain entities across explore / book / host flows.</p>
+      <p><code>Next.js</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>JWT</code></p>
+      <a href="https://github.com/nexus69420/Airbnb-clone"><b>source ↗</b></a> · <a href="https://airbnb-clone-sand-five.vercel.app"><b>live ↗</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔬 OCR Benchmark</h3>
+      <p>A resumable benchmarking harness that scores OCR/VLM engines on accuracy-vs-latency — used to pick production models on H100s.</p>
+      <p><code>Python</code> <code>vLLM</code> <code>OCR</code> <code>Eval</code></p>
+      <a href="https://github.com/nexus69420/ocr-benchmark-v2"><b>source ↗</b></a>
+    </td>
+  </tr>
+</table>
 
-| signal | value |
-| :--- | :--- |
-| PRs merged to production | **20+** |
-| OCR accuracy | **77% → 90%** after model benchmarking |
-| users on systems managed | **80K+** |
-| chunks indexed for search | **15K+** |
-| Marqo call sites removed | **11** (152 lines of duplicated logic) |
-| auth / tenancy tests | **15** verifying scoped mutations |
+## `> proof_of_work`
 
-## selected systems
+<div align="center">
 
-| | | |
-| :--- | :--- | :--- |
-| **[Airbnb Clone](https://github.com/nexus69420/Airbnb-clone)** | End-to-end booking platform — listings, filters, bookings, reviews, wishlists, host management across 9 domain entities. Next.js 15 + FastAPI, JWT auth, Alembic migrations. [Live demo](https://airbnb-clone-sand-five.vercel.app). | `TypeScript` `Next.js` `FastAPI` |
-| **[KAI — RAG Workspace](https://github.com/nexus69420/kai-ai-rag)** | Full-stack RAG desk: PDF upload, hybrid retrieval (dense + keyword + RRF) with Gemini reranking, streaming answers with page-level citations. [Live demo](https://kai-ai-rag.vercel.app). | `TypeScript` `Gemini` `Postgres` `Qdrant` |
-| **[OCR Benchmark](https://github.com/nexus69420/ocr-benchmark-v2)** | Resumable benchmarking CLI with YAML model registry — scores OCR/VLM engines by ANLS/CER/WER plus a vision-LLM judge for accuracy-vs-latency tradeoffs. | `Python` `vLLM` `OCR` `Eval` |
+| `20+ PRs` | `77% → 90%` | `80K+ users` | `15K+ chunks` |
+|:---:|:---:|:---:|:---:|
+| merged into production | OCR accuracy after benchmarking | on systems & DBs managed | indexed for semantic search |
 
-More context and writeups: **[aayush-portfolio-sandy.vercel.app](https://aayush-portfolio-sandy.vercel.app/)**.
+</div>
 
-## stack
+- Shipped **Keycloak JWT + RBAC** from scratch, gating all mutating endpoints behind scoped permissions with **15** auth/tenancy tests.
+- Refactored the vector store behind a single **VectorStore** protocol — removed **11** direct Marqo call sites and **152** lines of duplicated logic.
+- Built document lifecycle APIs (include / soft-delete / restore / chunk delete) with fail-closed ordering between the vector index and relational store.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,fastapi,postgres,redis,docker,linux,git,react,nextjs,tailwind,nodejs&theme=dark" alt="tech stack" />
-</p>
+## `> systems_i_reach_for`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Keycloak-auth-4ADE80?style=flat-square&labelColor=101216" alt="Keycloak" />
-  <img src="https://img.shields.io/badge/Marqo-search-4ADE80?style=flat-square&labelColor=101216" alt="Marqo" />
-  <img src="https://img.shields.io/badge/Temporal-workflows-4ADE80?style=flat-square&labelColor=101216" alt="Temporal" />
-  <img src="https://img.shields.io/badge/vLLM-inference-4ADE80?style=flat-square&labelColor=101216" alt="vLLM" />
-  <img src="https://img.shields.io/badge/Qdrant-vectors-4ADE80?style=flat-square&labelColor=101216" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Pydantic-models-4ADE80?style=flat-square&labelColor=101216" alt="Pydantic" />
-</p>
-
-When OCR or RAG misbehaves, I'd rather **read the score and the trace** than guess.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,fastapi,nextjs,react,postgres,docker,linux,git&theme=dark&perline=11" alt="Python, C++, JavaScript, TypeScript, FastAPI, Next.js, React, PostgreSQL, Docker, Linux, and Git" />
+</div>
 
 ## telemetry
 
