@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nexus69420/nexus69420/main/assets/banner-header.svg" width="100%" alt="Aayush Dubey - Backend engineer building systems that stay up" />
+  <img src="https://raw.githubusercontent.com/nexus69420/nexus69420/main/assets/banner-header.svg?v=2" width="100%" alt="Aayush Dubey — building systems that survive contact with reality" />
 </div>
 
 <div align="center">
@@ -51,6 +51,18 @@ looking   SDE / internship · 2026 · backend, platform, full-stack
 </div>
 
 When OCR or RAG misbehaves, I'd rather **read the score and the trace** than guess.
+
+## `> contribution_arcade`
+
+<div align="center">
+  <img src="./assets/contribution-arcade.svg" width="100%" alt="contribution arcade" />
+</div>
+
+<details>
+  <summary><b>▾ off the clock</b></summary>
+  <br />
+  Football, video games, and occasionally tearing a backend down just to make sure the abstractions still hold.
+</details>
 
 ## telemetry
 
