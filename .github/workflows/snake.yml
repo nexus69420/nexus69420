@@ -13,13 +13,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate light and dark contribution snakes
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+            dist/github-contribution-grid-snake.svg?color_snake=%232f81f7&color_dots=%23ebedf0,%23c6e4ff,%2379c0ff,%23388bfd,%231f6feb
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2358a6ff&color_dots=%23161b22,%230c2d6b,%231158c7,%231f6feb,%2379c0ff
+
+      - name: Publish generated assets
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

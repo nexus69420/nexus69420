@@ -55,11 +55,15 @@ When OCR or RAG misbehaves, I'd rather **read the score and the trace** than gue
 ## `> contribution_arcade`
 
 <div align="center">
-  <img src="./assets/contribution-arcade.svg" width="100%" alt="contribution arcade" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexus69420/nexus69420/output/github-contribution-grid-snake-dark.svg?v=blue" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexus69420/nexus69420/output/github-contribution-grid-snake.svg?v=blue" />
+    <img alt="contribution arcade — snake eating GitHub contributions" src="https://raw.githubusercontent.com/nexus69420/nexus69420/output/github-contribution-grid-snake.svg?v=blue" />
+  </picture>
 </div>
 
 <details>
-  <summary><b>▾ off the clock</b></summary>
+  <summary><b>off the clock</b></summary>
   <br />
   Football, video games, and occasionally tearing a backend down just to make sure the abstractions still hold.
 </details>
@@ -73,12 +77,4 @@ When OCR or RAG misbehaves, I'd rather **read the score and the trace** than gue
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexus69420&bg_color=0A0B0D&color=8A8F98&line=4ADE80&point=4ADE80&area=true&hide_border=true&area_color=4ADE80" alt="contribution graph" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexus69420/nexus69420/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexus69420/nexus69420/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/nexus69420/nexus69420/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
