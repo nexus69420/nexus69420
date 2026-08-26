@@ -75,7 +75,7 @@ When OCR or RAG misbehaves, I'd rather **read the score and the trace** than gue
 </div>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=nexus69420&hide_border=true&background=0A0B0D&ring=4ADE80&fire=4ADE80&currStreakNum=E8E6E0&sideNums=E8E6E0&currStreakLabel=4ADE80&sideLabels=8A8F98&dates=8A8F98&stroke=0A0B0D" alt="GitHub contribution streak" />
+  <img height="165" src="./profile/streak.svg" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
