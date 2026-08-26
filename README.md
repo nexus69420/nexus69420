@@ -70,10 +70,14 @@ When OCR or RAG misbehaves, I'd rather **read the score and the trace** than gue
 ## telemetry
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=nexus69420&show_icons=true&hide_border=true&bg_color=0A0B0D&title_color=4ADE80&icon_color=4ADE80&text_color=E8E6E0&ring_color=4ADE80" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=nexus69420&show_icons=true&hide_border=true&hide_rank=true&bg_color=0A0B0D&title_color=4ADE80&icon_color=4ADE80&text_color=E8E6E0" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nexus69420&layout=compact&hide_border=true&bg_color=0A0B0D&title_color=4ADE80&text_color=E8E6E0" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexus69420&bg_color=0A0B0D&color=8A8F98&line=4ADE80&point=4ADE80&area=true&hide_border=true&area_color=4ADE80" alt="contribution graph" />
+  <img height="165" src="https://streak-stats.demolab.com?user=nexus69420&hide_border=true&background=0A0B0D&ring=4ADE80&fire=4ADE80&currStreakNum=E8E6E0&sideNums=E8E6E0&currStreakLabel=4ADE80&sideLabels=8A8F98&dates=8A8F98&stroke=0A0B0D" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=nexus69420&bg_color=0A0B0D&color=8A8F98&line=4ADE80&point=4ADE80&area=true&hide_border=true&area_color=4ADE80" alt="contribution graph" />
 </div>
