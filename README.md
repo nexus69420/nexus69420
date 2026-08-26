@@ -49,8 +49,6 @@ looking   SDE / internship · 2026 · backend, platform, full-stack
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,fastapi,nextjs,react,postgres,docker,linux,git&theme=dark&perline=11" alt="Python, C++, JavaScript, TypeScript, FastAPI, Next.js, React, PostgreSQL, Docker, Linux, and Git" />
 </div>
 
-When OCR or RAG misbehaves, I'd rather **read the score and the trace** than guess.
-
 ## `> contribution_arcade`
 
 <div align="center">
